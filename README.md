@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
+- 🏁 Competitive programming fan.
+
 - ⚡ Fun fact **I love learning languages!**
 
 <h3 align="left">Connect with me:</h3>
