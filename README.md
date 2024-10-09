@@ -5,7 +5,7 @@
 
 - 🏁 Competitive programming fan.
 
-- ⚡ Fun fact **I love learning languages!**
+- ⚡ Fun fact: **I love learning languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
