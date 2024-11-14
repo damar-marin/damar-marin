@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damar</h1>
 <h3 align="center">Sophomore student from Mexico</h3>
 
-- 🌱 I’m currently learning **Kotlin**
-
 - 🏁 Competitive programming fan.
 
 - ⚡ Fun fact: **I love learning languages!**
